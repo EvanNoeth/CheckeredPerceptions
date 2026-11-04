@@ -5,7 +5,7 @@
 # Package Requirements
 pip install qi
 
-pip install PySimpleGUI==4.60.5
+pip install PySimpleGUI==6.2
 
 # Running
 python3 tested.py IP_ADDRESS
