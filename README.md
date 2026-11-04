@@ -4,6 +4,7 @@
 
 # Package Requirements
 pip install qi
+
 pip install PySimpleGUI==4.60.5
 
 # Running
